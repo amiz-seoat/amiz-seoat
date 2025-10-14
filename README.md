@@ -1,4 +1,6 @@
 I'm Abduselam Mohammednur
+
+
 ✨ About Me
 
 Hey there! I’m Abduselam Mohammednur, a passionate Full-Stack Developer who loves turning ideas into elegant, functional code. While my main focus and passion lie in backend development — designing scalable APIs, optimizing performance, and building reliable systems — I’m also skilled in creating clean, responsive frontend interfaces that bring great user experiences to life.
