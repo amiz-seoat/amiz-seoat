@@ -1,5 +1,9 @@
+<h1 align="center">Hi 👋, I'm Abduselam Mohammednur</h1>
+<h3 align="center">Full Stack Developer | Problem Solver | Tech Enthusiast</h3>
+
+
 # 💫 About Me:
-✨ About Me<br><br>Hey there! I'm Abduselam Mohammednur, a passionate Full-Stack Developer who loves turning ideas into elegant, functional code. While my main focus and passion lie in backend development — designing scalable APIs, optimizing performance, and building reliable systems — I’m also skilled in creating clean, responsive frontend interfaces that bring great user experiences to life.<br><br>💡 Currently Exploring: React Native, Generative AI<br>🛠️ Core Skills: Node.js, Express, React.js, Next.js, Docker, MERN Stack<br>📩 Contact Me: abduselammiz6@gmail.com<br>🎯 Fun Fact: I get the same excitement from fixing a tricky bug as others do from solving a puzzle — debugging is my version of treasure hunting.
+✨ About Me<br><br> a passionate Full-Stack Developer who loves turning ideas into elegant, functional code. While my main focus and passion lie in backend development — designing scalable APIs, optimizing performance, and building reliable systems — I’m also skilled in creating clean, responsive frontend interfaces that bring great user experiences to life.<br><br>💡 Currently Exploring: React Native, Generative AI<br>🛠️ Core Skills: Node.js, Express, React.js, Next.js, Docker, MERN Stack<br>📩 Contact Me: abduselammiz6@gmail.com<br>🎯 Fun Fact: I get the same excitement from fixing a tricky bug as others do from solving a puzzle — debugging is my version of treasure hunting.
 
 
 ## 🌐 Socials:
