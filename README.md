@@ -2,8 +2,20 @@
 <h3 align="center">Full Stack Developer | Problem Solver | Tech Enthusiast</h3>
 
 
-# 💫 About Me:
-✨ About Me<br><br> a passionate Full-Stack Developer who loves turning ideas into elegant, functional code. While my main focus and passion lie in backend development — designing scalable APIs, optimizing performance, and building reliable systems — I’m also skilled in creating clean, responsive frontend interfaces that bring great user experiences to life.<br><br>💡 Currently Exploring: React Native, Generative AI<br>🛠️ Core Skills: Node.js, Express, React.js, Next.js, Docker, MERN Stack<br>📩 Contact Me: abduselammiz6@gmail.com<br>🎯 Fun Fact: I get the same excitement from fixing a tricky bug as others do from solving a puzzle — debugging is my version of treasure hunting.
+# 💫 About Me
+
+👋 Hi, I’m **Abduselam** — an **AI Backend Engineer (Full-Stack)** who builds production-ready AI systems, automations, and scalable APIs.
+
+My core focus is on **AI-powered backend systems**: designing REST APIs, building RAG pipelines, integrating LLMs, and automating real-world workflows. I enjoy turning complex problems into reliable, efficient systems that actually ship.
+
+While backend and AI are my specialty, I’m also comfortable across the stack and can build clean, responsive frontend interfaces when needed.
+
+💡 **Currently working with:** RAG systems, LLM APIs, AI automation, n8n  
+🛠️ **Core skills:** Python, Node.js, Express, FastAPI, RAG, APIs, Docker, MongoDB, PostgreSQL, React  
+🚀 **What I build:** AI bots, backend services, automation pipelines, internal tools  
+📩 **Contact:** abduselammiz6@gmail.com  
+🎯 **Fun fact:** Debugging feels like solving a puzzle — the harder the bug, the more satisfying the fix.
+
 
 
 ## 🌐 Socials:
