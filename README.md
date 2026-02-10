@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abduselam Mohammednur</h1>
-<h3 align="center">Full Stack Developer | Problem Solver | Tech Enthusiast</h3>
+<h3 align="center">AI Backend Engineer (Full-Stack) | Building Scalable AI Systems & Automations</h3>
 
 
 # 💫 About Me
